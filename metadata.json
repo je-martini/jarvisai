@@ -1,0 +1,6 @@
+{
+  "name": "Live Voice Assistant",
+  "description": "Una aplicación de asistente de voz en tiempo real alimentada por la Multimodal Live API de Gemini. Habla con la IA y recibe respuestas de voz instantáneas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
